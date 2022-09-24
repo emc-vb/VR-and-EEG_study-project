@@ -6,5 +6,5 @@ The aim of this study was to test the effects of auditory priming on the percept
 
 The VR experiment was custom-made and conducted with the help of Unity.
 
-The data analysis was done with Python
+The data analysis was done with Python.
 
