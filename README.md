@@ -1,4 +1,4 @@
-# VR-and-EEG_study-project
+# Effects of auditory priming on the perception of semantic and syntactic inconsistencies in a virtual environment
  
 This is a study which was done in the scope of the "Designing and conducting an EEG study in VR" course from the university of Osnabrück.
 
